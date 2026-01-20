@@ -1,0 +1,15 @@
+# node
+node_modules
+.pnpm-store
+
+# next
+.next
+out
+
+# sanity
+.sanity
+.env
+.env.local
+
+# misc
+.DS_Store
